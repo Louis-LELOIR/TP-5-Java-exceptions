@@ -1,6 +1,7 @@
 import tp5.*;
 import tp5.ex4.*;
 import tp5.ex5.*;
+import tp5.exSynthese3.*;
 import java.lang.ArithmeticException;
 
 public class Main {
@@ -18,9 +19,15 @@ public class Main {
     */
 
     //Sum.getSum("15", "7", "20");
+    /*
     String[] array = new String[]{"1","2","3", "Saucisse"};
-    
     System.out.println(Sum.somme(array));
+    */
+    Entreprise Schlumberger = new Entreprise("Schlumberger");
+    Employe Edgar = new Employe("Edgar", "02/04/1996", "06.54.23.25.89", "Schlumberger");
+
+    
+    
   }
   
 }
