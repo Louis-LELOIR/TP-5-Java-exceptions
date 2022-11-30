@@ -1,5 +1,5 @@
-package tp5;
-import tp5.EntierNaturel;
+package tp5.ex1;
+import tp5.ex1.EntierNaturel;
 
 public class Test {
   

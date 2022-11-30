@@ -1,4 +1,4 @@
-package tp5;
+package tp5.ex1;
 
 public class MauvaiseConstanteException extends Exception {
 
