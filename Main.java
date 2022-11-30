@@ -18,7 +18,7 @@ public class Main {
     */
 
     //Sum.getSum("15", "7", "20");
-    Object array = new Object[]{1,2,"Saucisse"};
+    String[] array = new String[]{"1","2","3", "Saucisse"};
     
     System.out.println(Sum.somme(array));
   }
